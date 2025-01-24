@@ -32,19 +32,6 @@ else:
 
 
 
-grade =33
-if grade>=90:
-    print("A+ grade")
-elif grade >=75:
-    print("B grade")
-elif grade >=50:
-    print("C grade")
-elif grade <50:
-    print("Fail")
-else:
-    print("the grade")
-
-
 
 num=35
 if num %4==0 and num %2==0:
